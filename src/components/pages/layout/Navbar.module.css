@@ -1,0 +1,39 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(1, 116, 211);
+    padding: 2em;
+    height: 70px;
+}
+
+.logo {
+    height:80px;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item  {
+margin-right: 3em;
+}
+.item a {
+color: #fff;
+text-decoration: none;
+}
+.item4 a {
+background-color: #2121a1;
+padding: 9px;
+color: #fff;
+text-decoration: none;
+}
+
+.item a:hover  {
+color: #ffbb33;
+}
+
+.item4 a:hover  {
+color: #ffbb33;
+}

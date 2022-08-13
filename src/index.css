@@ -1,0 +1,29 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+h1, p {
+color: rgb(0, 0, 0);
+}
+
+
+button {
+    margin: 5px;
+    padding: 10px;
+    width: 160px;
+    background-color: #0000ff;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+}
+
+label {
+    display: block;
+}
